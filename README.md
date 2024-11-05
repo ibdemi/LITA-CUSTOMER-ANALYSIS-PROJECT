@@ -59,7 +59,7 @@ Exploratory Data Analysis entails Data Exploration to provide insights in the da
 
   ```SGL
   SELECT * FROM CUSTOMER DATA
-  WHERE CONDITION = TRUE
+  GROUP BY = SUBSCRIPTION TYPE
   ```
 
   ### Data Visualisation
