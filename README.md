@@ -58,7 +58,7 @@ Exploratory Data Analysis entails Data Exploration to provide insights in the da
   At this phase, some basic lines of codes, queries and DAX expressions where executed:
 
   ```SGL
-  SELECT * FROM TABLE1
+  SELECT * FROM CUSTOMER DATA
   WHERE CONDITION = TRUE
   ```
 
